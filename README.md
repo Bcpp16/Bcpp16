@@ -1,4 +1,4 @@
-<h1 align="left">Hola mundo!! Soy Bruna ✌</h1>
+<h1 align="left">Hola mundo, soy Bruna ✌</h1>
 
 ###
 
