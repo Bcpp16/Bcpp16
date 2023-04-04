@@ -13,8 +13,7 @@
 
 ###
 
-<p align="left">🌱 Actualmente estoy realizando cursos y proyectos para seguir aprendiendo.<br><br>🤝 Me encuentro en busqueda de mi primera experiencia laboral, donde me permitan seguir aprendiendo y desarrollando habilidades.<br><br>🚀 estoy profundizando en las tecnologías con las que he estado aprendiendo, mejorando e incorporando nuevas como Firebase, MongoDB, React Redux, Tailwind, entre otras.</p>
-
+<p align="left">🌱 Actualmente estoy realizando cursos y proyectos para seguir aprendiendo.<br><br>🤝 Me encuentro en busqueda de mi primera experiencia laboral, donde me permitan seguir aprendiendo y desarrollando habilidades.<br><br>
 ###
 ###
 ###
